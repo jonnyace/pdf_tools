@@ -1,0 +1,41 @@
+# PDF directories
+PDF_Downloads_*
+Merged_PDFs/
+Compressed_PDFs/
+Compressed_Large_PDFs/
+Processed_PDFs/
+Temp_Merged_PDFs/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Editor directories and files
+.idea
+.vscode
+*.swp
+*.swo 
